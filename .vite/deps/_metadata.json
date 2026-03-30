@@ -1,0 +1,32 @@
+{
+  "hash": "b92ce2e8",
+  "configHash": "fede0807",
+  "lockfileHash": "e3b0c442",
+  "browserHash": "8056512e",
+  "optimized": {
+    "framer-motion": {
+      "src": "../../client/node_modules/framer-motion/dist/es/index.mjs",
+      "file": "framer-motion.js",
+      "fileHash": "f785dc24",
+      "needsInterop": false
+    },
+    "react-icons/fa": {
+      "src": "../../client/node_modules/react-icons/fa/index.mjs",
+      "file": "react-icons_fa.js",
+      "fileHash": "0335f045",
+      "needsInterop": false
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../client/node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "579aa7e7",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "react-D4AFbXLY": {
+      "file": "react-D4AFbXLY.js",
+      "isDynamicEntry": false
+    }
+  }
+}
