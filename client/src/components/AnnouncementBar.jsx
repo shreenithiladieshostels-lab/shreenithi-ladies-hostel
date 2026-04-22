@@ -34,8 +34,8 @@ export function AnnouncementProvider({ children }) {
 }
 
 // ─── Update these values for your announcement ─────────────────────────────
-const NEW_SITE_URL = "https://shreenithihostel.netlify.app/"; // ← replace with your URL
-const NEW_SITE_NAME = "Shreenithi Hostel";          // ← replace with branch name
+const NEW_SITE_URL = "https://www.aostel.in/"; // ← replace with your URL
+const NEW_SITE_NAME = "aostel";          // ← replace with branch name
 const LOGO_URL = "/images/hostel-logo.jpg";                    // ← logo to display (using simpler logo for announcement bar)
 // ────────────────────────────────────────────────────────────────────────────
 
